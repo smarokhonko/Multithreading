@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/deadlock.dir/main.cpp.o  -o deadlock  -lpthread 
